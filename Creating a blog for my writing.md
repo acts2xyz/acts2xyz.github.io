@@ -17,3 +17,4 @@ So today I am just writing things in Markdown using Obsidian, pushing them to a 
 It will miss a ton of stuff, but I need to get started.
 
 Monday, February 27th 2023
+Will this map to my [[README]]?
